@@ -1,0 +1,1 @@
+This folder is used for bin files to upgrage ESP32
